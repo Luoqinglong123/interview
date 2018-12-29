@@ -1,4 +1,4 @@
-package 输入年月日判断第几天; �����������жϵڼ���;
+package 输入年月日判断第几天;
 
 public class Test1 {
 	public static void main(String[] args) {
@@ -12,6 +12,6 @@ public class Test1 {
 			sum += day[i];
 		}
 		sum += 4;
-		System.out.println("����Ϊ��" + sum);
+		System.out.println("天数为：" + sum);
 	}
 }

@@ -1,4 +1,4 @@
-package 九九乘法表; �žų˷���;
+package 九九乘法表;
 
 public class Main {
 

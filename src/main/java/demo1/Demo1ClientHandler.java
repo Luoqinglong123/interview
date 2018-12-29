@@ -1,6 +1,5 @@
 package demo1;
 
-import com.lql.test.demo04.PhoneMessageDto;
 import org.apache.log4j.Logger;
 import org.apache.mina.core.service.IoHandlerAdapter;
 import org.apache.mina.core.session.IoSession;

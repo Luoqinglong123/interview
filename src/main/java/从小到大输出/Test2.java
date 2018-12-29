@@ -1,6 +1,6 @@
 package 从小到大输出;
 
-��С�������;
+
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,20 +1,18 @@
 package 判断是否为素数;
 
-�ж��Ƿ�Ϊ����;
-
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * �ж�101-200֮���ж������������������
- * 
+ * 判断101-200之间有多少素数，并输出所有
+ *
  * @author qinglongl
  *
  */
 public class Main {
 
 	public static void main(String[] args) {
-		 
+
 		List<Integer> list = new ArrayList<Integer>();
 		for (int i = 101; i < 201; i++) {
 			list.add(i);
@@ -26,14 +24,14 @@ public class Main {
 					if(k!=-1)
 						list.remove(k);
 					continue;
-				}	
+				}
 			}
 
 		}
-		System.out.print("���е�����Ϊ");
+		System.out.print("所有的素数为");
 		for (Integer integer : list) {
 			System.out.print(integer+"\t");
-			
+
 		}
 	}
 }

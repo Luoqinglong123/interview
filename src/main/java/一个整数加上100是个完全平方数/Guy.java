@@ -1,4 +1,4 @@
-package 一个整数加上100是个完全平方数����������100�Ǹ���ȫƽ����;
+package 一个整数加上100是个完全平方数;
 
 public class Guy {
 	public static void main(String[] args) {
@@ -10,6 +10,6 @@ public class Guy {
 			}
 			i++;
 		}
-	
+
 	}
 }

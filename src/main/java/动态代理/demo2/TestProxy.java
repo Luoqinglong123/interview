@@ -1,7 +1,8 @@
 package 动态代理.demo2;
 
-import com.lql.test.动态代理.demo1.Hello;
-import com.lql.test.动态代理.demo1.HelloImp;
+
+import 动态代理.demo1.Hello;
+import 动态代理.demo1.HelloImp;
 
 import java.lang.reflect.Proxy;
 

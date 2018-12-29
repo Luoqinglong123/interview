@@ -1,6 +1,6 @@
 package demo03;
 
-import com.lql.test.demo1.Demo1ClientHandler;
+import demo1.Demo1ClientHandler;
 import org.apache.log4j.Logger;
 import org.apache.mina.core.future.ConnectFuture;
 import org.apache.mina.core.service.IoConnector;

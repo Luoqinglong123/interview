@@ -1,4 +1,4 @@
-package 从小到大输出; ��С�������;
+package 从小到大输出;
 
 public class Test3 {
 

@@ -1,6 +1,4 @@
-package 水仙花数
-
-�ɻ���;
+package 水仙花数;
 
 import java.util.ArrayList;
 

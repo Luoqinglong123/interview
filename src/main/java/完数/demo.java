@@ -1,4 +1,4 @@
-package 完数; ����;
+package 完数;
 
 public class demo {
 	static boolean IsPerfectNum(int n) {

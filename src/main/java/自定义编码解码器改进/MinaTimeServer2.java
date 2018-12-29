@@ -1,7 +1,6 @@
 package 自定义编码解码器改进;
 
-import com.lql.test.TimeServerHandler;
-import com.lql.test.自定义编码解码器.MyTextLineCodecFactory;
+import mina.TimeServerHandler;
 import org.apache.mina.core.service.IoAcceptor;
 import org.apache.mina.core.session.IdleStatus;
 import org.apache.mina.filter.codec.ProtocolCodecFilter;
